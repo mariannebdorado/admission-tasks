@@ -8,11 +8,12 @@ Hi Dennis,
 
 A pleasant day to you! We received your Tech Fellow application and appreciate the commitment you put into this application.
 
-We have a different process in handling Tech Fellow application. Before we can admit Tech Fellows into the Tech Fellow training, there has to be at least one more eligible Tech Fellow from the same school who completed their requirements as well. This means that until there are at least two of them who completed the admissions requirements, we won’t be able to admit them and they stay in the pipeline. These requirements can be found on our website: https://info.codepath.org/fall21techfellows.
+We have a different process in handling Tech Fellow application. Before we can admit Tech Fellows into the Tech Fellow training, there has to be at least one more eligible Tech Fellow from the same school who completed their requirements as well. This means that until there are at least two of them who completed the admissions requirements, we won’t be able to admit them and they stay in the pipeline. These requirements can be found on our website: [Apply to be a Fall 2021 Tech Fellow](https://info.codepath.org/fall21techfellows).
 
-This whole waiting process sometimes takes close to a month. We value your time and commitment, and we know how hard it is to wait especially when it has been three weeks since you sent your application, but are we asking for your patience and wait for our next call regarding your application.
+This whole waiting process sometimes takes close to a month. We value your time and commitment, and we know how hard it is to wait especially when it has been three weeks since you sent your application, but are we ask you to be patient and wait for our next email regarding your application.
 
 Again, thank you and we look forward to welcome you soon to our Tech Fellow Training.
 
 Sincerely,
 Marianne
+
