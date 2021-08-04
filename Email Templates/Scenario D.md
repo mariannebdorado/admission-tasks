@@ -11,7 +11,7 @@ As part of our process, you need to complete the [Pre-work](https://courses.code
 
 Applicants will need to complete the questionnaire and pre-work in order to be considered for admission.
 
-AS for the schedule of classes, please refer to the schedule below:
+As for the schedule of classes, please refer to the schedule below:
 - **Live session attendance:** Classes meet once or twice per week for 1-2 hour sessions over the duration of the semester.
 **NOTE:** Session frequency and duration may vary depending on college.
 - **Outside of class time:** Students should plan to spend 5-10 hours outside of class working on weekly assignments and their final group project.
