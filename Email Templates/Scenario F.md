@@ -9,9 +9,9 @@ Hi Guru,
 
 Hope you're having a great day! As part of processing our Tech Fellows applications, I would like to inquire about one of our applicants interview grade.
 
-She is Maria, and already done with her interview schedule, but her grade is not yet reflected in the tracker. We also haven't received any update email from you regarding her grade.
+She is Marie, and already done with her interview schedule, but her grade is not yet reflected in the tracker. We also haven't received any update email from you regarding her grade.
 
-We understand how busy you might get, but we also appreciate you taking time to look into it and provide us Marie's grade so we can proceed with the application process and come up with the Final Verdict.
+We understand how busy are, but we also appreciate you taking time to look into it and provide us Marie's grade so we can proceed with the application process and come up with the Final Verdict.
 
 Thank you and I look forward to your response.
 
