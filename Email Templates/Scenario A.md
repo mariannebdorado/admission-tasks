@@ -21,6 +21,6 @@ As a class in Thailand is possible in the future, and we would like to invite yo
 
 We look forward for your application in the future, and we wish you all the best in your studies and endeavors.
 
-Sincerely,
+Sincerely, 
 Marianne
 
